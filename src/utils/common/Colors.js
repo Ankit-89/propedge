@@ -1,0 +1,15 @@
+export const Theme = '#1D2B41';
+export const ThemeOpacity = 'rgba(29, 43, 65, 0.5)';
+export const ThemeOpacity8 = 'rgba(29, 43, 65, 0.8)';
+export const BackGround = '##FAFAFA';
+export const Shadow = '#707070';
+export const LightGray = '#F2F2F2';
+export const White = '#FFFFFF';
+export const DarkGrey = '#D2D2D2';
+export const White5 = '#F5F5F5';
+export const DarkGreyUnit = '#C4C4C4';
+export const Black = '#000000';
+export const BorderColor = 'rgba(0, 0, 0, 0.2)';
+export const ButtonColor = '#0F0059';
+export const BackGroundColor = '#1AFFEE';
+export const LightPurple = '#D5CFF3';

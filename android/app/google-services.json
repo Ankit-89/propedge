@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "637622173448",
+    "project_id": "propedge-f016a",
+    "storage_bucket": "propedge-f016a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637622173448:android:24e66ee4c5d60d373236bd",
+        "android_client_info": {
+          "package_name": "com.app.propedge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637622173448-b8do1d02504o9hnabcb93oapg8spl7j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIt5tJHxKmqfAjEsZfJtu2F0r_4V9BYX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637622173448-b8do1d02504o9hnabcb93oapg8spl7j7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "637622173448-tc8ec529nifvss4mt37712keqe9leant.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.propedge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
